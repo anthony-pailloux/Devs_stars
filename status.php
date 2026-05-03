@@ -1,4 +1,4 @@
-
+<?php
 $ages = [40, 35, 15, 11];
 
 function status($age) {
@@ -19,4 +19,3 @@ foreach($ages as $value) {
 
 
 
-?>
